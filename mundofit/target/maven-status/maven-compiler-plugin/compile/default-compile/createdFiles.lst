@@ -1,0 +1,5 @@
+org\example\mundofit\model\repository\AlunoRepository.class
+org\example\mundofit\model\repository\ExercicioRepository.class
+org\example\mundofit\model\Aluno.class
+org\example\mundofit\MundofitApplication.class
+org\example\mundofit\model\Exercicio.class
